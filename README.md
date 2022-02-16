@@ -2,7 +2,7 @@
 
 This is a small project made throughout Jonas Schmedtmann's JavaScript course (https://www.udemy.com/course/the-complete-javascript-course).
 
-You can see the web project here:
+You can see the web project here: https://elenaeslin.github.io/guess-my-number/ or in codepen.io
 
 ![image](preview.PNG)
 
