@@ -4,7 +4,7 @@ This is a small project made throughout Jonas Schmedtmann's JavaScript course (h
 
 You can see the web project here:
 
-![Alt text](preview.PNG?raw=true 'guess-my-number-preview')
+![Alt img](preview.PNG?raw=true 'guess-my-number-preview')
 
 To win the game you have to figure out what number is hidden behind the '?', between 1 and 20.
 
